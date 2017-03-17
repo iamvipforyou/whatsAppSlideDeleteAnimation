@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#3dbab9</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="appBackColor">#1b1e24</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorButton">#3dbab9</color>
+    <color name="shadedBlack">#59000000</color>
+    <color name="colorBorderLine">#5E5E5F</color>
+    <color name="colorFb">#3B5999</color>
+    <color name="colorProfile">#75CDCE</color>
+    <color name="colorOpacity">#D93dbab9</color>
+    <color name="colorTwitter">#45B7FE</color>
+    <color name="colorRed">#e74850</color>
+    <color name="colorFbView">#28457F</color>
+    <color name="white">#ffffff</color>
+    <color name="colorTwitterView">#3191CC</color>
+    <color name="colorImgBorder">#676767</color>
+    <color name="item_description_color">#616161</color>
+    <color name="colorHeadeBack">#F5F6F8</color>
+    <color name="colorHeadeTxt">#7A7B7D</color>
+    <color name="colorShadedBar">#597A7B7D</color>
+    <color name="backColor">#F4F4F4</color>
+    <color name="editBack">#E8E8E8</color>
+    <color name="lightGray">#f5f5f5</color>
+    <color name="app_back_ground">#FAFAFA</color>
+
+
+
+    <color name="background">#65828e</color>
+    <color name="main_color">#ff9a00</color>
+    <color name="secondary_color">#BDBDBD</color>
+</resources>

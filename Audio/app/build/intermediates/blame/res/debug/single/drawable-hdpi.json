@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/drawable-hdpi/rec.png",
+        "source": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/src/main/res/drawable-hdpi/rec.png"
+    }
+]

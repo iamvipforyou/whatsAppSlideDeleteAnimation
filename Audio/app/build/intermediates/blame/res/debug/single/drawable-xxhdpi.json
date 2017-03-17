@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/drawable-xxhdpi/mic.png",
+        "source": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/src/main/res/drawable-xxhdpi/mic.png"
+    },
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/drawable-xxhdpi/mic_pressed.png",
+        "source": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/src/main/res/drawable-xxhdpi/mic_pressed.png"
+    },
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/drawable-xxhdpi/slidearrow.png",
+        "source": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/src/main/res/drawable-xxhdpi/slidearrow.png"
+    }
+]

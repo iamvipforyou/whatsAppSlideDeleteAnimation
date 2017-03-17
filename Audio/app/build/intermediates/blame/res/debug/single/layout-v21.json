@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mss/.android/build-cache/752f16082fecb921c816e2ba2fd6e083918c3677/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mss/.android/build-cache/752f16082fecb921c816e2ba2fd6e083918c3677/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mss/.android/build-cache/752f16082fecb921c816e2ba2fd6e083918c3677/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mss/Videos/NATIVE/RND/AudioRec/Audio/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mss/.android/build-cache/752f16082fecb921c816e2ba2fd6e083918c3677/output/res/layout-v21/notification_action.xml"
+    }
+]
